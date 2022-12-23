@@ -1,0 +1,24 @@
+.flex-rights{
+    position: relative;
+    flex:1;
+}
+.elips{
+    position: absolute;
+   left: 0;
+    background-image: linear-gradient(#49B649
+    50%
+    #49B649
+    0%);
+} 
+  .boy{
+    position: absolute;
+    left: 0;
+  
+} 
+.herorowS{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding: 60px;
+    flex: 1;
+}

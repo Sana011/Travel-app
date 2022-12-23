@@ -1,0 +1,21 @@
+.strt-btn{
+    background-color: #49B649;
+    border-radius: 10px;
+    border: none;
+margin: 0 25px;
+padding: 10px 25px;
+}
+/* .flex-rightsS{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.herorowSS{
+    display: flex;
+    width: 100%;
+    height: 100%;
+justify-content: center;
+align-items: center;
+    flex: 1;
+    gap: 300px;
+}

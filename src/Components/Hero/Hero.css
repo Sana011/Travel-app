@@ -1,0 +1,47 @@
+.hero-con{
+    background-color: black;
+    height: 100vh;
+ 
+}
+.herorowd{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+    flex: 1;
+}
+
+.svn{
+    background-color: #49B649;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.text{
+    color: white;
+}
+p{
+    color: white;
+}
+span{
+    color: white;
+}
+.saving{
+    color: #49B649;
+}
+.flex-right{
+    position: relative;
+    flex:1;
+}
+.elip{
+    position: absolute;
+    right: 0;
+
+  
+} 
+  .girl{
+    position: absolute;
+    right: 0;
+  
+} 

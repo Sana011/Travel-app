@@ -1,0 +1,49 @@
+*{
+  box-sizing: border-box;
+ 
+}
+.Navbr{
+ display: flex;
+ background-color: #070707;
+ width: 100%;
+ height: 100%;
+padding: 0 30px;
+ justify-content: center;
+ align-items: center;
+
+
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+
+    
+}
+li{
+    display: flex;
+    padding: 0 10px;
+   color: white;
+}
+li a{
+  color: white;
+  text-decoration: none;
+}
+
+.contct-btn{
+    background-color: #49B649;
+    border-radius: 10px;
+    border: none;
+margin: 0 25px;
+padding: 10px 25px;
+ 
+
+}
+
+.active{
+   color: #49B649;
+}

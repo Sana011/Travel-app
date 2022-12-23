@@ -1,0 +1,27 @@
+.moneyBg{
+    background-image: url(../../Images/bg.png);
+
+  background-size: cover;
+  background-position: center;
+  display: flex;
+ 
+}
+.long-para{
+    text-align: justify;
+width: 90%;
+}
+.right{
+ 
+    flex:1;
+}
+.left{
+
+    flex:1;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 80px;
+    
+}
